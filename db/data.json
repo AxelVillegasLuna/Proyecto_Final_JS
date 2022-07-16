@@ -1,0 +1,12 @@
+[
+    {"id": -1, "id_carrito": -1, "nombre": "Grand Theft Auto V", "descripcion": "N/D", "precio": 900, "imagen": "../img/gta_v.jpg", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "Sekiro:Shadows Die Twice", "descripcion": "N/D", "precio": 1300, "imagen": "../img/sekiro.jpg", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "Bioshock The Collection", "descripcion": "N/D", "precio": 830, "imagen": "../img/bioshock.jpg", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "Red Dead Redemption II", "descripcion": "N/D", "precio": 2000, "imagen": "../img/rdr2.jpg", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "Horizon Zero Dawn", "descripcion": "N/D", "precio": 3500, "imagen": "../img/horizon.jpg", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "Dark Souls", "descripcion": "N/D", "precio": 1000, "imagen": "../img/dark_souls.jpg", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "Forza Horizon 5", "descripcion": "N/D", "precio": 3600, "imagen": "../img/forza.jpg", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "FIFA 2022", "descripcion": "N/D", "precio": 4500, "imagen": "../img/fifa.png", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "Elden Ring", "descripcion": "N/D", "precio": 4000, "imagen": "../img/elden_ring.png", "valoracion": "N/D", "categoria": "N/D"},
+    {"id": -1, "id_carrito": -1, "nombre": "NBA 2K22", "descripcion": "N/D", "precio": 4200, "imagen": "../img/nba.jpg", "valoracion": "N/D", "categoria": "N/D"}
+]
